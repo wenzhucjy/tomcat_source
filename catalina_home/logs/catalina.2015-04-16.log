@@ -1,0 +1,334 @@
+四月 16, 2015 2:03:14 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+四月 16, 2015 2:03:14 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 16, 2015 2:03:16 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+四月 16, 2015 2:03:16 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:03:16 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:03:16 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1836 ms
+四月 16, 2015 2:03:16 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+四月 16, 2015 2:03:16 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.50
+四月 16, 2015 2:03:16 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\docs
+四月 16, 2015 2:03:16 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\examples
+四月 16, 2015 2:03:17 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\host-manager
+四月 16, 2015 2:03:17 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\manager
+四月 16, 2015 2:03:17 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\ROOT
+四月 16, 2015 2:03:17 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:03:17 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:03:17 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1237 ms
+四月 16, 2015 2:03:30 下午 org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:03:40 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+四月 16, 2015 2:03:40 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 16, 2015 2:03:41 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+四月 16, 2015 2:03:42 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:03:42 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:03:42 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1454 ms
+四月 16, 2015 2:03:42 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+四月 16, 2015 2:03:42 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.50
+四月 16, 2015 2:03:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\docs
+四月 16, 2015 2:03:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\examples
+四月 16, 2015 2:03:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\host-manager
+四月 16, 2015 2:03:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\manager
+四月 16, 2015 2:03:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\ROOT
+四月 16, 2015 2:03:43 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:03:43 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:03:43 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 985 ms
+四月 16, 2015 2:35:47 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+四月 16, 2015 2:35:47 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 16, 2015 2:35:48 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+四月 16, 2015 2:35:48 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:35:48 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8443"]
+四月 16, 2015 2:35:48 下午 org.apache.coyote.AbstractProtocol init
+SEVERE: Failed to initialize end point associated with ProtocolHandler ["http-apr-8443"]
+java.lang.Exception: Connector attribute SSLCertificateFile must be defined when using SSL with APR
+	at org.apache.tomcat.util.net.AprEndpoint.bind(AprEndpoint.java:467)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:640)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:434)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:981)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:559)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:814)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:664)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:281)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:455)
+
+四月 16, 2015 2:35:48 下午 org.apache.catalina.core.StandardService initInternal
+SEVERE: Failed to initialize connector [Connector[HTTP/1.1-8443]]
+org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-8443]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:106)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:559)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:814)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:664)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:281)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:455)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:983)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	... 12 more
+Caused by: java.lang.Exception: Connector attribute SSLCertificateFile must be defined when using SSL with APR
+	at org.apache.tomcat.util.net.AprEndpoint.bind(AprEndpoint.java:467)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:640)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:434)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:981)
+	... 13 more
+
+四月 16, 2015 2:35:48 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:35:48 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1415 ms
+四月 16, 2015 2:35:48 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+四月 16, 2015 2:35:48 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.50
+四月 16, 2015 2:35:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\docs
+四月 16, 2015 2:35:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\examples
+四月 16, 2015 2:35:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\host-manager
+四月 16, 2015 2:35:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\manager
+四月 16, 2015 2:35:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\ROOT
+四月 16, 2015 2:35:49 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:35:49 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:35:49 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 956 ms
+四月 16, 2015 2:42:53 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+四月 16, 2015 2:42:53 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 16, 2015 2:42:54 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+四月 16, 2015 2:42:54 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:42:54 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8443"]
+四月 16, 2015 2:42:54 下午 org.apache.coyote.AbstractProtocol init
+SEVERE: Failed to initialize end point associated with ProtocolHandler ["http-bio-8443"]
+java.io.IOException: Keystore was tampered with, or password was incorrect
+	at sun.security.provider.JavaKeyStore.engineLoad(Unknown Source)
+	at sun.security.provider.JavaKeyStore$JKS.engineLoad(Unknown Source)
+	at java.security.KeyStore.load(Unknown Source)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.getStore(JSSESocketFactory.java:392)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.getKeystore(JSSESocketFactory.java:291)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.getKeyManagers(JSSESocketFactory.java:549)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.getKeyManagers(JSSESocketFactory.java:489)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.init(JSSESocketFactory.java:434)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.createSocket(JSSESocketFactory.java:181)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:397)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:640)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:434)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:981)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:559)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:814)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:664)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:281)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:455)
+Caused by: java.security.UnrecoverableKeyException: Password verification failed
+	... 27 more
+
+四月 16, 2015 2:42:55 下午 org.apache.catalina.core.StandardService initInternal
+SEVERE: Failed to initialize connector [Connector[HTTP/1.1-8443]]
+org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-8443]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:106)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:559)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:814)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:664)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:281)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:455)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:983)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	... 12 more
+Caused by: java.io.IOException: Keystore was tampered with, or password was incorrect
+	at sun.security.provider.JavaKeyStore.engineLoad(Unknown Source)
+	at sun.security.provider.JavaKeyStore$JKS.engineLoad(Unknown Source)
+	at java.security.KeyStore.load(Unknown Source)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.getStore(JSSESocketFactory.java:392)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.getKeystore(JSSESocketFactory.java:291)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.getKeyManagers(JSSESocketFactory.java:549)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.getKeyManagers(JSSESocketFactory.java:489)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.init(JSSESocketFactory.java:434)
+	at org.apache.tomcat.util.net.jsse.JSSESocketFactory.createSocket(JSSESocketFactory.java:181)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:397)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:640)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:434)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:981)
+	... 13 more
+Caused by: java.security.UnrecoverableKeyException: Password verification failed
+	... 27 more
+
+四月 16, 2015 2:42:55 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:42:55 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2106 ms
+四月 16, 2015 2:42:55 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+四月 16, 2015 2:42:55 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.50
+四月 16, 2015 2:42:55 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\docs
+四月 16, 2015 2:42:55 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\examples
+四月 16, 2015 2:42:55 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\host-manager
+四月 16, 2015 2:42:55 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\manager
+四月 16, 2015 2:42:55 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\ROOT
+四月 16, 2015 2:42:55 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:42:56 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:42:56 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 968 ms
+四月 16, 2015 2:43:28 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+四月 16, 2015 2:43:28 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 16, 2015 2:43:29 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+四月 16, 2015 2:43:30 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:43:30 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8443"]
+四月 16, 2015 2:43:30 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:43:30 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1599 ms
+四月 16, 2015 2:43:30 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+四月 16, 2015 2:43:30 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.50
+四月 16, 2015 2:43:30 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\docs
+四月 16, 2015 2:43:30 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\examples
+四月 16, 2015 2:43:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\host-manager
+四月 16, 2015 2:43:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\manager
+四月 16, 2015 2:43:31 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\ROOT
+四月 16, 2015 2:43:31 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 2:43:31 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8443"]
+四月 16, 2015 2:43:31 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 2:43:31 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 962 ms
+四月 16, 2015 2:47:11 下午 org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive D:\apache-tomcat-7.0.50\webapps\cas.war
+四月 16, 2015 2:47:41 下午 org.apache.jasper.compiler.TldLocationsCache tldScanJar
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+四月 16, 2015 3:11:39 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: Loaded APR based Apache Tomcat Native library 1.1.29 using APR version 1.4.8.
+四月 16, 2015 3:11:39 下午 org.apache.catalina.core.AprLifecycleListener init
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+四月 16, 2015 3:11:41 下午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.0.1e 11 Feb 2013)
+四月 16, 2015 3:11:41 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 3:11:41 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8443"]
+四月 16, 2015 3:11:41 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 3:11:41 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1619 ms
+四月 16, 2015 3:11:41 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+四月 16, 2015 3:11:41 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.50
+四月 16, 2015 3:11:41 下午 org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive D:\apache-tomcat-7.0.50\webapps\cas.war
+四月 16, 2015 3:11:48 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\docs
+四月 16, 2015 3:11:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\examples
+四月 16, 2015 3:11:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\host-manager
+四月 16, 2015 3:11:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\manager
+四月 16, 2015 3:11:49 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\apache-tomcat-7.0.50\webapps\ROOT
+四月 16, 2015 3:11:49 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8090"]
+四月 16, 2015 3:11:49 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8443"]
+四月 16, 2015 3:11:49 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+四月 16, 2015 3:11:49 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 8152 ms
+四月 16, 2015 3:12:08 下午 org.apache.jasper.compiler.TldLocationsCache tldScanJar
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
