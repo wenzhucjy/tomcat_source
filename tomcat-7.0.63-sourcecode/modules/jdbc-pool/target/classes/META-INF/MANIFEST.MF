@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 1.7.0_09
+Specification-Title: jdbc-pool
+Specification-Version: 1.2-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: jdbc-pool
+Implementation-Version: 1.2-SNAPSHOT
+Implementation-Vendor-Id: org.apache.tomcat
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+
