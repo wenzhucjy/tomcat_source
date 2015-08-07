@@ -4,11 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.wenzhu</groupId>
     <artifactId>tomcat-study</artifactId>
-    <name>Tomcat 7.0 Study</name>
+    <name>Tomcat Source Study</name>
     <version>1.0</version>
     <packaging>pom</packaging>
 
     <modules>
      <module>tomcat-7.0.63-sourcecode</module>
+	 <module>tomcat-8.0.9-sourcecode</module>
 	</modules>
 </project>
